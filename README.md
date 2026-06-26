@@ -104,6 +104,17 @@ const karthik = {
 
 ---
 
+<!-- ─────────────────────────────  WAKATIME  ───────────────────────────── -->
+
+## ⏳ Weekly Coding Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<sub><i>Updated daily from <a href="https://wakatime.com">WakaTime</a> once the <code>WAKATIME_API_KEY</code> secret is added (workflow resumes after Actions are re-enabled).</i></sub>
+
+---
+
 <!-- ─────────────────────────────  SNAKE  ───────────────────────────── -->
 
 ## 🐍 Contribution Snake

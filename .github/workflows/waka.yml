@@ -1,0 +1,28 @@
+# Updates the "Weekly Coding Breakdown" section of the README with WakaTime stats.
+# Setup (one-time, by the account owner):
+#   1. Create a free account at https://wakatime.com and copy your API key
+#      (Settings → Account → "Secret API Key").
+#   2. In this repo: Settings → Secrets and variables → Actions → New repository
+#      secret, named exactly  WAKATIME_API_KEY  with that key as the value.
+# Because this is a profile repo (username/username), no GH_TOKEN/PAT is needed —
+# the built-in GITHUB_TOKEN with contents:write permission is sufficient.
+name: WakaTime Stats
+
+on:
+  # Refresh once a day
+  schedule:
+    - cron: "0 0 * * *"
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
