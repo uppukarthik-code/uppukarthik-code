@@ -71,7 +71,7 @@ const karthik = {
 
 `Security & OT`&nbsp;&nbsp;
 ![IEC 62443](https://img.shields.io/badge/IEC_62443-0B486B?style=for-the-badge&logo=shieldsdotio&logoColor=white)
-![EN 5012x](https://img.shields.io/badge/EN_5012x-0B486B?style=for-the-badge&logo=tractrain&logoColor=white)
+![EN 5012x](https://img.shields.io/badge/EN_5012x-0B486B?style=for-the-badge&logo=trainline&logoColor=white)
 ![ICS / SCADA](https://img.shields.io/badge/ICS_%2F_SCADA-0B486B?style=for-the-badge&logo=siemens&logoColor=white)
 
 `DevOps & Tools`&nbsp;&nbsp;
@@ -90,7 +90,7 @@ const karthik = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=uppukarthik-code&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=c9d1d9" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=uppukarthik-code&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=c9d1d9" alt="stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uppukarthik-code&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=c9d1d9" alt="top languages"/>
 
 <br/>
