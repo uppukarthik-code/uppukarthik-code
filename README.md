@@ -99,9 +99,6 @@ const karthik = {
 
 </div>
 
-<!-- Contribution activity trend -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=uppukarthik-code&theme=tokyo-night&bg_color=0D1117&color=38B2AC&line=2C7A7B&point=ffffff&area=true&area_color=2C7A7B&hide_border=true" width="100%" alt="activity graph"/>
-
 ---
 
 <!-- ─────────────────────────────  WAKATIME  ───────────────────────────── -->
