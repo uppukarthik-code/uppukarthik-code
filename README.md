@@ -71,7 +71,7 @@ const karthik = {
 
 `Security & OT`&nbsp;&nbsp;
 ![IEC 62443](https://img.shields.io/badge/IEC_62443-0B486B?style=for-the-badge&logo=shieldsdotio&logoColor=white)
-![EN 5012x](https://img.shields.io/badge/EN_5012x-0B486B?style=for-the-badge&logo=trainline&logoColor=white)
+![EN 5012x](https://img.shields.io/badge/EN_5012x-0B486B?style=for-the-badge)
 ![ICS / SCADA](https://img.shields.io/badge/ICS_%2F_SCADA-0B486B?style=for-the-badge&logo=siemens&logoColor=white)
 
 `DevOps & Tools`&nbsp;&nbsp;
@@ -133,18 +133,6 @@ No activity tracked
 </picture>
 
 <sub><i>Generated automatically by the <code>snake.yml</code> GitHub Action.</i></sub>
-
-</div>
-
----
-
-<!-- ─────────────────────────────  TROPHIES  ───────────────────────────── -->
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=uppukarthik-code&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
 
 </div>
 
