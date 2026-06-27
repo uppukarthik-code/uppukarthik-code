@@ -109,6 +109,11 @@ const karthik = {
 ## ⏳ Weekly Coding Breakdown
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <sub><i>Updated daily from <a href="https://wakatime.com">WakaTime</a> once the <code>WAKATIME_API_KEY</code> secret is added (workflow resumes after Actions are re-enabled).</i></sub>
