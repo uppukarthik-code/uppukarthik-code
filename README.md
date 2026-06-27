@@ -156,8 +156,8 @@ No activity tracked
 
 <div align="center">
 
-<a href="https://github.com/uppukarthik-code/NetScope">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uppukarthik-code&repo=NetScope&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=c9d1d9" alt="NetScope"/>
+<a href="https://github.com/uppukarthik-code/KAVACH-frequency-TDMA-time-slot-allocation-tool">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uppukarthik-code&repo=KAVACH-frequency-TDMA-time-slot-allocation-tool&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=c9d1d9" alt="KAVACH frequency &amp; TDMA time-slot allocation tool"/>
 </a>
 <a href="https://github.com/uppukarthik-code/railway-ot-cybersecurity-platform">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=uppukarthik-code&repo=railway-ot-cybersecurity-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=c9d1d9" alt="railway-ot-cybersecurity-platform"/>
@@ -165,7 +165,7 @@ No activity tracked
 
 </div>
 
-> 🟢 **NetScope** *(current focus)* — autonomous network discovery & topology mapping for OT / ICS environments.
+> 🟢 **KAVACH Frequency & TDMA Time-Slot Allocation Tool** *(current focus)* — automated RF frequency planning and TDMA time-slot allocation for India's **KAVACH** train collision-avoidance / ATP signalling.
 >
 > **Railway OT Cybersecurity Platform** — AI-assisted architecture generator & validator for railway signalling systems, supporting **IEC 62443**, **EN 50126**, **EN 50129**, and **EN 50159**.
 
