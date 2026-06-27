@@ -90,7 +90,7 @@ const karthik = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=uppukarthik-code&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=c9d1d9" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=uppukarthik-code&show_icons=true&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=c9d1d9" alt="stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uppukarthik-code&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=c9d1d9" alt="top languages"/>
 
 <br/>
