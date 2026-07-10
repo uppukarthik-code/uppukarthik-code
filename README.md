@@ -108,7 +108,11 @@ const karthik = {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       4 hrs 31 mins         ██████████████░░░░░░░░░░░   55.51 %
+Markdown     1 hr 23 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
+TypeScript   1 hr                  ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
+JSON         21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Bash         19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
 ```
 
 <!--END_SECTION:waka-->
