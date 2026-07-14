@@ -150,6 +150,18 @@ AI-assisted architecture generator &amp; validator for railway signalling system
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Last commit](https://img.shields.io/github/last-commit/uppukarthik-code/railway-ot-cybersecurity-platform?style=flat-square&color=0B486B)
 
+### 🛣️ In Progress
+
+<sub>Private repositories — public release planned.</sub>
+
+**RailwayTwin** — digital-twin tool that parses signalling interlocking plans (`.sip`) to auto-generate the **Integrated Power Supply (IPS) Bill of Materials**: module &amp; battery sizing, load / power-budget calculation, and procurement-ready output.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Digital Twin](https://img.shields.io/badge/digital%20twin-0B486B?style=flat-square) ![IPS BOM](https://img.shields.io/badge/IPS%20BOM-2C7A7B?style=flat-square) ![Private · WIP](https://img.shields.io/badge/status-private%20%C2%B7%20WIP-6E7681?style=flat-square)
+
+**Railway MIS · Stores Optimisation** — inventory analytics &amp; optimisation for railway stores: demand forecasting, stock &amp; reorder-point optimisation, ABC/XYZ classification, and reporting dashboards.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Optimisation](https://img.shields.io/badge/optimisation-0B486B?style=flat-square) ![Private · WIP](https://img.shields.io/badge/status-private%20%C2%B7%20WIP-6E7681?style=flat-square)
+
 ---
 
 <!-- ─────────────────────────────  CONNECT  ───────────────────────────── -->
