@@ -90,12 +90,7 @@ const karthik = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=uppukarthik-code&show_icons=true&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=c9d1d9" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uppukarthik-code&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=c9d1d9" alt="top languages"/>
-
-<br/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=uppukarthik-code&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="streak"/>
+<img height="170" src="https://streak-stats.demolab.com?user=uppukarthik-code&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="contribution streak"/>
 
 </div>
 
@@ -143,20 +138,17 @@ JavaScript   1 hr 1 min            ▓░░░░░░░░░░░░░░
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🟢 [KAVACH Frequency &amp; TDMA Time-Slot Allocation Tool](https://github.com/uppukarthik-code/KAVACH-frequency-TDMA-time-slot-allocation-tool) &nbsp;·&nbsp; *current focus*
 
-<a href="https://github.com/uppukarthik-code/KAVACH-frequency-TDMA-time-slot-allocation-tool">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uppukarthik-code&repo=KAVACH-frequency-TDMA-time-slot-allocation-tool&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=c9d1d9" alt="KAVACH frequency &amp; TDMA time-slot allocation tool"/>
-</a>
-<a href="https://github.com/uppukarthik-code/railway-ot-cybersecurity-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uppukarthik-code&repo=railway-ot-cybersecurity-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC&text_color=c9d1d9" alt="railway-ot-cybersecurity-platform"/>
-</a>
+Automated RF frequency planning and TDMA time-slot allocation for India's **KAVACH** train collision-avoidance / ATP signalling — spectrum-minimal, RDSO-compliant, with IM3 avoidance via **OR-Tools CP-SAT**.
 
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![License](https://img.shields.io/github/license/uppukarthik-code/KAVACH-frequency-TDMA-time-slot-allocation-tool?style=flat-square&color=2C7A7B&label=license) ![Last commit](https://img.shields.io/github/last-commit/uppukarthik-code/KAVACH-frequency-TDMA-time-slot-allocation-tool?style=flat-square&color=0B486B)
 
-> 🟢 **KAVACH Frequency & TDMA Time-Slot Allocation Tool** *(current focus)* — automated RF frequency planning and TDMA time-slot allocation for India's **KAVACH** train collision-avoidance / ATP signalling.
->
-> **Railway OT Cybersecurity Platform** — AI-assisted architecture generator & validator for railway signalling systems, supporting **IEC 62443**, **EN 50126**, **EN 50129**, and **EN 50159**.
+### [Railway OT Cybersecurity Platform](https://github.com/uppukarthik-code/railway-ot-cybersecurity-platform)
+
+AI-assisted architecture generator &amp; validator for railway signalling systems, supporting **IEC 62443 · EN 50126 · EN 50129 · EN 50159**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Last commit](https://img.shields.io/github/last-commit/uppukarthik-code/railway-ot-cybersecurity-platform?style=flat-square&color=0B486B)
 
 ---
 
