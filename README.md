@@ -103,10 +103,10 @@ const karthik = {
 <!--START_SECTION:waka-->
 
 ```txt
-Python       21 hrs 7 mins         ████████████░░░░░░░░░░░░░   47.91 %
-Markdown     12 hrs 6 mins         ███████░░░░░░░░░░░░░░░░░░   27.47 %
-Other        3 hrs 22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-TypeScript   1 hr 37 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Python       21 hrs 15 mins        ████████████░░░░░░░░░░░░░   48.01 %
+Markdown     12 hrs 6 mins         ███████░░░░░░░░░░░░░░░░░░   27.37 %
+Other        3 hrs 22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+TypeScript   1 hr 37 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
 JavaScript   1 hr 1 min            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 ```
 
