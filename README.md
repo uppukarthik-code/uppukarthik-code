@@ -103,8 +103,8 @@ const karthik = {
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   17 mins               ███████████████████████▓░   94.57 %
-Python     1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+Python     22 mins               ██████████████░░░░░░░░░░░   55.85 %
+Markdown   17 mins               ███████████░░░░░░░░░░░░░░   44.15 %
 ```
 
 <!--END_SECTION:waka-->
