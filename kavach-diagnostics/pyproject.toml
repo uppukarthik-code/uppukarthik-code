@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kavach-diag"
+version = "0.1.0"
+description = "Offline health and fault classification for Indian Railways Kavach (TCAS) installations"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+keywords = ["kavach", "tcas", "indian-railways", "signalling", "diagnostics", "ot-security"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Topic :: System :: Monitoring",
+    "Intended Audience :: Telecommunications Industry",
+]
+
+[project.scripts]
+kavach-diag = "kavach_diag.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["kavach_diag*"]
+
+[tool.setuptools.package-data]
+kavach_diag = ["py.typed"]

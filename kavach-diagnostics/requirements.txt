@@ -1,0 +1,2 @@
+# kavach-diag runs on the Python standard library only.
+# Nothing to install; Python 3.10 or later is required.

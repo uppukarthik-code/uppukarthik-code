@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+
+# Generated reports and any operational data placed here
+reports/*
+!reports/.gitkeep
+
+# Real registers and exports must never be committed
+data/inventory/*_operational*.csv
+data/telemetry/*_operational*
+*.local.csv
+*.local.json

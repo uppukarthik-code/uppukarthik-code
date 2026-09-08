@@ -1,0 +1,21 @@
+asset_id,asset_type,kavach_id,oem,spec_version,zone,division,section,station_code,station_name,km_post,line,loco_number,loco_class,shed_code,commissioned_on,sanctioned_sw_version,sanctioned_track_db,commissioning_checksum,assigned_freq_mhz,notes
+SKU-EXA,SKU,KV-1001,OEM-Beta,4.0,EXZ,EXD,EXA-EXG,EXA,Example A Jn,412/2,UP-DN,,,,2024-11-18,4.0.2,TDB-2025-06-R1,0x8F31AC20,425.0,Station unit interfaced with EI
+SKU-EXB,SKU,KV-1002,OEM-Gamma,4.0,EXZ,EXD,EXA-EXG,EXB,Example B,421/6,UP-DN,,,,2024-11-18,4.0.2,TDB-2025-06-R1,0x8F31AC20,425.0,Station unit interfaced with EI
+SKU-EXC,SKU,KV-1003,OEM-Alpha,4.0,EXZ,EXD,EXA-EXG,EXC,Example C Halt,433/0,UP-DN,,,,2024-11-18,4.0.2,TDB-2025-06-R1,0x8F31AC20,425.5,Station unit interfaced with EI
+SKU-EXD,SKU,KV-1004,OEM-Beta,4.0,EXZ,EXD,EXA-EXG,EXD,Example D,447/4,UP-DN,,,,2024-11-18,4.0.2,TDB-2025-06-R1,0x8F31AC20,425.5,Station unit interfaced with EI
+SKU-EXE,SKU,KV-1005,OEM-Gamma,4.0,EXZ,EXD,EXA-EXG,EXE,Example E,461/8,UP-DN,,,,2024-11-18,4.0.2,TDB-2025-06-R1,0x8F31AC20,426.0,Station unit interfaced with EI
+SKU-EXF,SKU,KV-1006,OEM-Alpha,4.0,EXZ,EXD,EXA-EXG,EXF,Example F,478/2,UP-DN,,,,2024-11-18,4.0.2,TDB-2025-06-R1,0x8F31AC20,426.0,Station unit interfaced with EI
+SKU-EXG,SKU,KV-1007,OEM-Beta,4.0,EXZ,EXD,EXA-EXG,EXG,Example G Jn,495/0,UP-DN,,,,2024-11-18,4.0.2,TDB-2025-06-R1,0x8F31AC20,426.5,Station unit interfaced with EI
+TWR-EXA1,TWR,KV-T201,OEM-Alpha,4.0,EXZ,EXD,EXA-EXG,EXA,Example A Jn,413/0,,,,,2024-10-02,,,,425.0,Radio tower / static radio unit
+TWR-EXC1,TWR,KV-T202,OEM-Alpha,4.0,EXZ,EXD,EXA-EXG,EXC,Example C Halt,436/4,,,,,2024-10-02,,,,425.5,Radio tower / static radio unit
+TWR-EXE1,TWR,KV-T203,OEM-Alpha,4.0,EXZ,EXD,EXA-EXG,EXE,Example E,463/2,,,,,2024-10-02,,,,426.0,Radio tower / static radio unit
+TWR-EXG1,TWR,KV-T204,OEM-Alpha,4.0,EXZ,EXD,EXA-EXG,EXG,Example G Jn,494/6,,,,,2024-10-02,,,,426.5,Radio tower / static radio unit
+RIU-EXB1,RIU,KV-R301,OEM-Beta,4.0,EXZ,EXD,EXA-EXG,EXB,Example B,421/8,,,,,2024-12-09,4.0.2,,0x8F31AC20,,Remote interface unit at IB location
+RIU-EXF1,RIU,KV-R302,OEM-Beta,4.0,EXZ,EXD,EXA-EXG,EXF,Example F,478/6,,,,,2024-12-09,4.0.2,,0x8F31AC20,,Remote interface unit at IB location
+LKU-30201,LKU,KV-L401,OEM-Beta,4.0,EXZ,EXD,,,,,,30201,WAP-7,EXS,2025-01-21,4.0.2,TDB-2025-06-R1,0x8F31AC20,425.0,Loco unit - shed fitted
+LKU-30244,LKU,KV-L402,OEM-Gamma,4.0,EXZ,EXD,,,,,,30244,WAP-7,EXS,2025-01-21,4.0.2,TDB-2025-06-R1,0x8F31AC20,425.0,Loco unit - shed fitted
+LKU-31108,LKU,KV-L403,OEM-Alpha,4.0,EXZ,EXD,,,,,,31108,WAG-9,EXS,2025-01-21,4.0.2,TDB-2025-06-R1,0x8F31AC20,425.5,Loco unit - shed fitted
+LKU-31179,LKU,KV-L404,OEM-Beta,4.0,EXZ,EXD,,,,,,31179,WAG-9,EXS,2025-01-21,4.0.2,TDB-2025-06-R1,0x8F31AC20,425.5,Loco unit - shed fitted
+LKU-40012,LKU,KV-L405,OEM-Gamma,4.0,EXZ,EXD,,,,,,40012,WDG-4,EXH,2025-01-21,4.0.2,TDB-2025-06-R1,0x8F31AC20,426.0,Loco unit - shed fitted
+LKU-40077,LKU,KV-L406,OEM-Alpha,4.0,EXZ,EXD,,,,,,40077,WDG-4,EXH,2025-01-21,4.0.2,TDB-2025-06-R1,0x8F31AC20,426.0,Loco unit - shed fitted
+LKU-22019,LKU,KV-L407,OEM-Beta,4.0,EXZ,EXD,,,,,,22019,WAP-5,EXS,2025-01-21,4.0.2,TDB-2025-06-R1,0x8F31AC20,426.5,Loco unit - shed fitted
